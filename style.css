@@ -1,0 +1,21 @@
+h1{
+    background-color: black;
+    font-family: 'courier New', 'San-Serif';
+    color: white;
+    font-size: 28px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    color: red;
+    font-style: italic;
+    text-align: center;
+}
